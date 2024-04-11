@@ -6,7 +6,7 @@ A helper method that prints the contents of a 1D array.
 
 **TODO 2**
 
-A helper method that prints the contents of a 2D array.
+A he2lper method that prints the contents of a 2D array.
 
 **TODO 3**
 
